@@ -1,0 +1,3 @@
+# jeu de nim
+
+il s'agit d'un jeu de stratégie ...
